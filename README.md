@@ -1,2 +1,2 @@
 # arithmetic-game
-HW-Day#1
+Day #1 - Arithmetic game to practice basic math skills 
