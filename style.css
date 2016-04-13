@@ -1,0 +1,89 @@
+body {
+  text-align:center;
+  background-color: #2C3E50;
+}
+
+p, h1, tr {
+  color:white;
+}
+
+h4 {
+  color:#3498DB;
+}
+
+#equation {
+  font-size: 300%;
+  margin:0;
+}
+
+#equation > span {
+  margin:0 10px;
+  color: white;
+}
+
+#inputBoard > button {
+  font-size: 200%;
+  width: 100px;
+  height: 100px;
+  margin:3px;
+}
+
+.actions > button {
+  width: 100px;
+  height: 50px;
+  font-size: 130%;
+  margin: 3px;
+}
+
+#feedback {
+  margin: 10px 0;
+  font-size: 120%;
+}
+
+.result {
+  border:1px solid white;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.description {
+  padding:0 10px;
+}
+
+.yourScore {
+
+}
+
+.equation {
+  margin-top: 10px;
+}
+
+.firstRow {
+  font-size: 120%;
+  border-bottom: 2px solid black;
+}
+
+button {
+  border-radius: 5px;
+  background-color: #ECF0F1;
+}
+
+.good {
+  color: #84FF9F;
+}
+
+.wrong {
+  color: #E74C3C;
+}
+
+#opPlus {
+  position: relative;
+  top:-5px;
+  margin-right: 3px;
+}
+
+#opMinus {
+  position: relative;
+  top:5px;
+  margin-left: 3px;
+}
